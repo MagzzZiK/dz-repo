@@ -1,0 +1,10 @@
+//1
+int x = 40;
+char c = 1;
+float a = 1,23456;
+double b = 1,2345678;
+bool a = true, b = false;
+
+//2
+
+enum 
