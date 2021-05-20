@@ -16,5 +16,6 @@ enum SYMBOLS {EMPTY="_", PLAYER="X", AI="O" };
 //enum PRINTABLE {EMPTY="*", PLAYER="X", AI="A"};
 
 //3
+SYMBOLS field [3] {3} = {EMPTY}
 
 
