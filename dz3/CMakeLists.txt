@@ -1,0 +1,5 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+add_compile_options(-Wall)
+PROJECT(hw3)
+add_executable(hw3 src/lesson3.cpp)
+target_include_directories(hw3 PRIVATE ${CMAKE_CURRRENT_SOURCE_DIR}/include)

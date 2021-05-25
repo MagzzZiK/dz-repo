@@ -1,0 +1,5 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.8)
+add_compile_options(-Wall -g)
+PROJECT(hw4)
+add_executable(hw4 src/lesson4.cpp)
+target_include_directories(hw4 PRIVATE ${CMAKE_CURRRENT_SOURCE_DIR}/include)

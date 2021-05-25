@@ -1,0 +1,3 @@
+/home/magzzz/geekbrains/dz/dz3/build/CMakeFiles/edit_cache.dir
+/home/magzzz/geekbrains/dz/dz3/build/CMakeFiles/rebuild_cache.dir
+/home/magzzz/geekbrains/dz/dz3/build/CMakeFiles/hw3.dir
