@@ -19,3 +19,7 @@ enum SYMBOLS {EMPTY="_", PLAYER="X", AI="O" };
 SYMBOLS field [3] {3} = {EMPTY}
 
 
+
+return 0;
+}
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/hw4.dir/src/lesson4.cpp.o  -o hw4 

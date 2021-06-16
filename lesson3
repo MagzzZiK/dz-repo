@@ -1,0 +1,15 @@
+#include <iostream>
+
+int main(int argc, const char** argv) { // 1TBS
+
+int main(){
+    int a=5;
+    int b=4;
+    int c=3;
+    int d=2;
+    float e=a*(b+(c/d));
+    cout << e ;
+
+
+    return 0;
+}
